@@ -1,4 +1,4 @@
-# **Analyzing-Student-Attributes-for-Career-Success**
+# **Career-Readiness-Assessment-Unearthing-Key-Student-Qualities**
 
 ## **Visualized Dashboard**
 ![image](https://github.com/sdr999/Analyzing-Student-Attributes-for-Career-Success/assets/100745287/a196432f-e29d-4bca-aa27-4453365dbb54)
